@@ -8,8 +8,11 @@ namespace mmk
         {
             int[] values = { 4, 7, 12, 5, 8 };
 
-            int thirNumber = values[2];
-            Console.WriteLine(thirNumber);
+            string[] names = { "Zee", "Brandon", "Josh", "Chip" };
+
+            bool[] bals = { true, true, false, false, true };
+
+            Double[] numbers = { 4, 6, 3.14, 2.73, 0.03 };
             
         }
     }
